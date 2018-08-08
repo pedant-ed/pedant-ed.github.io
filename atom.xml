@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-08T18:24:10.635Z</updated>
+  <updated>2018-08-08T19:00:56.861Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,72 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2018/08/08/New/"/>
+    <id>http://yoursite.com/2018/08/08/New/</id>
+    <published>2018-08-08T19:00:56.865Z</published>
+    <updated>2018-08-08T19:00:56.861Z</updated>
+    
+    <content type="html"><![CDATA[<p>#first<br><em>hello, world</em><br><em>hello, world</em><br>aha</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#first&lt;br&gt;&lt;em&gt;hello, world&lt;/em&gt;&lt;br&gt;&lt;em&gt;hello, world&lt;/em&gt;&lt;br&gt;aha&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2018/08/08/aha/"/>
+    <id>http://yoursite.com/2018/08/08/aha/</id>
+    <published>2018-08-08T18:58:30.961Z</published>
+    <updated>2018-08-08T18:57:54.401Z</updated>
+    
+    <content type="html"><![CDATA[<p>#first<br><em>hello, world</em></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#first&lt;br&gt;&lt;em&gt;hello, world&lt;/em&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>wo</title>
+    <link href="http://yoursite.com/2018/08/08/wo/"/>
+    <id>http://yoursite.com/2018/08/08/wo/</id>
+    <published>2018-08-08T18:50:56.000Z</published>
+    <updated>2018-08-08T18:51:55.231Z</updated>
+    
+    <content type="html"><![CDATA[<p>welcome to my skill blog</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;welcome to my skill blog&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>wed</title>
